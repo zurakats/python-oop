@@ -13,7 +13,7 @@ hero2.name = "sven"
 hero2.health = 200
 
 hero3.name = "ucup"
-hero3.name = 1000
+hero3.health = 1000
 
 print(hero1)
 print(hero1.__dict__) #dict = dictionary
